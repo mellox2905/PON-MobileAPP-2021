@@ -1,6 +1,15 @@
 
-{
-    "name": "John",
-    "age": 31,
-    "city": "New York"
+// Reference the function
+new libro("War of the Worlds", "H G Wells");
+new libro("The Martian", "Andy Weir");
+
+/**
+ * Represents a libro.
+ *
+ * @param {string} title Title of the libro
+ * @param {string} author Who wrote the libro
+ */
+function Book(title, author) {
+    this.title = title;
+    this.author = author;
 }

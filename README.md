@@ -31,4 +31,5 @@ I professori che vi guideranno in questa avventura:
 Prof. Palladino Marco
 Prof. Palitto Matteo
 
-test2 from info2
+by Amir Mellouk
+
